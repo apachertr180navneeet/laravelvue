@@ -6,7 +6,7 @@
 
         <title>laravelvue</title>
     </head>
-    <body class="antialiased">
+    <body>
         
     </body>
 </html>
