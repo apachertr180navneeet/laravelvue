@@ -5,7 +5,7 @@
             The Page with time {{ timer }}
         </div>
         <slot>
-
+            Default
         </slot>
 </template>
 
